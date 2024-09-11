@@ -9,9 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@agentic/ai-sdk": "^7.0.0",
+    "@agentic/core": "^7.0.0",
+    "@agentic/stdlib": "^7.0.0",
+    "@ai-sdk/openai": "^0.0.58",
+    "ai": "^3.3.33",
+    "mongoose": "^8.6.1",
+    "next": "14.2.9",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.9"
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "postcss": "^8",
